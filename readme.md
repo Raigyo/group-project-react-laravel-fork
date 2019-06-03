@@ -1,4 +1,4 @@
-# Becode - JepsenBrite
+# Becode - Do Nut Event (Workgroup: Laravel + ReactJS fork from another application)
 
 ![Becode logo](https://raw.githubusercontent.com/Raigyo/react-character-manager/master/img/becode-logo.png)
 
